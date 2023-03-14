@@ -7,7 +7,7 @@
  
 </head>
 <body>
-<h1> Welcome To Pockemon Card App with Lazy Loading  </h1>
+<h1> Welcome to Pokemon Card App with Lazy Loading  </h1>
  <h3>Home Page</h3>
   <h1>Dark Mode</h1>
    <table>
